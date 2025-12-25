@@ -15,7 +15,7 @@ The " School Management System " is designed to simplify school management digit
 
 ## Technologies Used
 - C# with Windows Forms (GUI).  
-- No database integration; data is stored in memory or files.
+- database integration.
 
 ## Contributors
 - Roaa Abozahow
